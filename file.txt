@@ -2,5 +2,9 @@ A
 B
 C
 D
+<<<<<<< HEAD
 E
 F
+=======
+G
+>>>>>>> master
